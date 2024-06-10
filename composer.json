@@ -1,0 +1,16 @@
+{
+    "name": "benzo/single-entry-point",
+    "autoload": {
+        "psr-4": {
+            "Benzo\\SingleEntryPoint\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benzodrel"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
