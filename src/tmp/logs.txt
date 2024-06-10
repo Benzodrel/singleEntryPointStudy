@@ -1,0 +1,737 @@
+2024-06-05 02:51:53 [INFO] [ACCESS LOG] GET /singleEntryPoint/index.php
+2024-06-05 02:52:37 [INFO] [ACCESS LOG] GET /singleEntryPoint/index.php
+2024-06-05 02:53:39 [INFO] [ACCESS LOG] GET /singleEntryPoint/index.php
+2024-06-05 03:17:59 [INFO] [ACCESS LOG] GET /singleEntryPoint/index.php
+2024-06-05 14:16:34 [INFO] [ACCESS LOG] GET /singleEntryPoint/index.php
+2024-06-09 18:48:29 [INFO] [ACCESS LOG] GET /entry/index.php
+2024-06-09 18:49:22 [INFO] [ACCESS LOG] GET /entry/index.php
+2024-06-09 19:06:03 [INFO] [ACCESS LOG] GET /entry/index.php
+2024-06-09 19:07:23 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:07:47 [INFO] [ACCESS LOG] GET /entry/produxt
+2024-06-09 19:09:14 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:09:17 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 19:09:21 [INFO] [ACCESS LOG] GET /entry/product/new
+2024-06-09 19:09:26 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 19:10:08 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 19:10:14 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 19:10:14 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 19:16:09 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 19:16:59 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:20:36 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:20:38 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:21:27 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:21:28 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:21:28 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:21:29 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:21:29 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:22:11 [INFO] [ACCESS LOG] GET /entry/src/tmp/products.json
+2024-06-09 19:26:48 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:30:45 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:35:30 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:36:01 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:36:01 [INFO] Get All products
+2024-06-09 19:41:13 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:41:14 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:42:16 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:42:16 [INFO] Get All products
+2024-06-09 19:42:18 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:42:18 [INFO] Get All products
+2024-06-09 19:42:19 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:42:19 [INFO] Get All products
+2024-06-09 19:42:52 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:42:52 [INFO] Get All products
+2024-06-09 19:45:29 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:45:29 [INFO] Get All products
+2024-06-09 19:45:29 [INFO] [
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 1500
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 200
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 999
+  },
+  {
+    "id": 111,
+    "name": "Andrei",
+    "price": "228"
+  },
+  {
+    "id": 999,
+    "name": "Dima",
+    "price": "10000"
+  },
+  {
+    "id": 7,
+    "name": "test",
+    "price": "1"
+  },
+  {
+    "id": 43,
+    "name": "fdsafs",
+    "price": "1111"
+  },
+  {
+    "id": 7765,
+    "name": "gfdsgs",
+    "price": "111234"
+  }
+]
+2024-06-09 19:47:26 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:47:26 [INFO] Get All products
+2024-06-09 19:49:07 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:49:07 [INFO] Get All products
+2024-06-09 19:50:00 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:50:00 [INFO] Get All products
+2024-06-09 19:54:54 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 19:54:54 [INFO] Get All products
+2024-06-09 19:55:01 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 20:03:46 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 20:03:46 [INFO] Get All products
+2024-06-09 20:04:22 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-09 20:04:31 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-09 20:04:31 [INFO] Creating productqqweq
+2024-06-09 20:04:31 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 20:04:31 [INFO] Get All products
+2024-06-09 20:09:44 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:10:56 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:10:56 [INFO] Get All products
+2024-06-09 20:13:21 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:13:21 [INFO] Get All products
+2024-06-09 20:13:54 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:13:54 [INFO] Get All products
+2024-06-09 20:13:56 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 20:13:56 [INFO] Get All products
+2024-06-09 20:14:32 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-09 20:14:32 [INFO] Get All products
+2024-06-09 20:14:33 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:14:33 [INFO] Get All products
+2024-06-09 20:15:37 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:15:37 [INFO] Get All products
+2024-06-09 20:16:21 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:16:21 [INFO] Get All products
+2024-06-09 20:16:26 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:16:26 [INFO] Get All products
+2024-06-09 20:16:51 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-09 20:16:51 [INFO] Get All products
+2024-06-09 20:37:05 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-09 20:37:16 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-10 11:01:47 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:01:47 [INFO] Get All products
+2024-06-10 11:01:51 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-10 11:02:40 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-10 11:04:57 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:04:57 [INFO] Get All products
+2024-06-10 11:04:58 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-10 11:05:04 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-10 11:05:09 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-10 11:05:14 [INFO] [ACCESS LOG] POST /entry/update
+2024-06-10 11:05:17 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:05:17 [INFO] Get All products
+2024-06-10 11:05:53 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:05:53 [INFO] Get All products
+2024-06-10 11:05:55 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:05:55 [INFO] Updating product with id11111
+2024-06-10 11:05:55 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:05:55 [INFO] Get All products
+2024-06-10 11:06:04 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:06:04 [INFO] Get All products
+2024-06-10 11:06:06 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:06:06 [INFO] Updating product with id11111
+2024-06-10 11:06:06 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:06:06 [INFO] Get All products
+2024-06-10 11:06:09 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:06:09 [INFO] Updating product with id11111
+2024-06-10 11:06:09 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:06:09 [INFO] Get All products
+2024-06-10 11:06:10 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:06:10 [INFO] Get All products
+2024-06-10 11:06:16 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:06:16 [INFO] Updating product with id11111
+2024-06-10 11:06:16 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:06:16 [INFO] Get All products
+2024-06-10 11:06:18 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:06:18 [INFO] Get All products
+2024-06-10 11:06:58 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:06:58 [INFO] Get All products
+2024-06-10 11:06:59 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:06:59 [INFO] Get All products
+2024-06-10 11:07:02 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:07:02 [INFO] Updating product with id11111
+2024-06-10 11:07:02 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:07:02 [INFO] Get All products
+2024-06-10 11:07:04 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:07:04 [INFO] Get All products
+2024-06-10 11:07:05 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:07:05 [INFO] Get All products
+2024-06-10 11:07:07 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:07:07 [INFO] Get All products
+2024-06-10 11:07:18 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:07:18 [INFO] Updating product with id11111
+2024-06-10 11:07:18 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:07:18 [INFO] Get All products
+2024-06-10 11:07:22 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:07:22 [INFO] Get All products
+2024-06-10 11:07:24 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:07:24 [INFO] Updating product with id11111
+2024-06-10 11:07:24 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:07:24 [INFO] Get All products
+2024-06-10 11:07:29 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:07:29 [INFO] Updating product with id11111
+2024-06-10 11:07:29 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:07:29 [INFO] Get All products
+2024-06-10 11:07:33 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:07:33 [INFO] Get All products
+2024-06-10 11:07:34 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:07:34 [INFO] Updating product with id11111
+2024-06-10 11:07:34 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:07:34 [INFO] Get All products
+2024-06-10 11:07:35 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:07:35 [INFO] Get All products
+2024-06-10 11:09:43 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:09:43 [INFO] Updating product with id11111
+2024-06-10 11:09:43 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:09:43 [INFO] Get All products
+2024-06-10 11:09:47 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:09:47 [INFO] Get All products
+2024-06-10 11:09:52 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:09:52 [INFO] Get All products
+2024-06-10 11:14:49 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:14:49 [INFO] Get All products
+2024-06-10 11:14:51 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:14:51 [INFO] Updating product with id11111
+2024-06-10 11:14:51 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:14:51 [INFO] Get All products
+2024-06-10 11:17:07 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:17:07 [INFO] Get All products
+2024-06-10 11:17:11 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:17:11 [INFO] Updating product with id11111
+2024-06-10 11:17:11 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:17:11 [INFO] Get All products
+2024-06-10 11:17:41 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:17:41 [INFO] Get All products
+2024-06-10 11:17:45 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:17:45 [INFO] Updating product with id11111
+2024-06-10 11:17:45 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:17:45 [INFO] Get All products
+2024-06-10 11:21:37 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:21:37 [INFO] Get All products
+2024-06-10 11:21:38 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:21:38 [INFO] Updating product with id11111
+2024-06-10 11:21:38 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:21:38 [INFO] Get All products
+2024-06-10 11:21:42 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:21:42 [INFO] Updating product with id11111
+2024-06-10 11:21:42 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:21:42 [INFO] Get All products
+2024-06-10 11:21:44 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:21:44 [INFO] Updating product with id11111
+2024-06-10 11:21:44 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:21:44 [INFO] Get All products
+2024-06-10 11:21:50 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:21:50 [INFO] Updating product with id11111
+2024-06-10 11:21:50 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:21:50 [INFO] Get All products
+2024-06-10 11:21:52 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:21:52 [INFO] Updating product with id11111
+2024-06-10 11:21:52 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:21:52 [INFO] Get All products
+2024-06-10 11:22:06 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:22:06 [INFO] Get All products
+2024-06-10 11:22:08 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 11:22:15 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-10 11:22:15 [INFO] Creating productfdsaffff
+2024-06-10 11:22:15 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:22:15 [INFO] Get All products
+2024-06-10 11:22:19 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:22:19 [INFO] Get All products
+2024-06-10 11:22:25 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:22:25 [INFO] Updating product with id12
+2024-06-10 11:22:25 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:22:25 [INFO] Get All products
+2024-06-10 11:22:29 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:22:29 [INFO] Get All products
+2024-06-10 11:24:21 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:24:21 [INFO] Get All products
+2024-06-10 11:24:23 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:24:23 [INFO] Updating product with id12
+2024-06-10 11:24:23 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:24:23 [INFO] Get All products
+2024-06-10 11:24:37 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:24:37 [INFO] Get All products
+2024-06-10 11:24:39 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:24:39 [INFO] Updating product with id12
+2024-06-10 11:24:39 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:24:39 [INFO] Get All products
+2024-06-10 11:25:25 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 11:25:30 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:25:30 [INFO] Get All products
+2024-06-10 11:25:31 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:25:31 [INFO] Get All products
+2024-06-10 11:25:36 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:25:36 [INFO] Updating product with id12
+2024-06-10 11:25:36 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:25:36 [INFO] Get All products
+2024-06-10 11:26:15 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:26:15 [INFO] Get All products
+2024-06-10 11:26:21 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:26:21 [INFO] Updating product with id12
+2024-06-10 11:26:21 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:26:21 [INFO] Get All products
+2024-06-10 11:26:24 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:26:24 [INFO] Get All products
+2024-06-10 11:26:28 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:26:28 [INFO] Updating product with id12
+2024-06-10 11:26:28 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:26:28 [INFO] Get All products
+2024-06-10 11:30:01 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:30:01 [INFO] Get All products
+2024-06-10 11:30:03 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:30:03 [INFO] Updating product with id12
+2024-06-10 11:30:03 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:30:03 [INFO] Get All products
+2024-06-10 11:32:00 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:32:00 [INFO] Get All products
+2024-06-10 11:32:01 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:32:01 [INFO] Get All products
+2024-06-10 11:32:03 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:32:03 [INFO] Deleting product with id2
+2024-06-10 11:32:21 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:32:21 [INFO] Get All products
+2024-06-10 11:32:43 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:32:43 [INFO] Get All products
+2024-06-10 11:32:45 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:32:45 [INFO] Get All products
+2024-06-10 11:32:48 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:32:48 [INFO] Deleting product with id4
+2024-06-10 11:32:48 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:32:48 [INFO] Get All products
+2024-06-10 11:32:51 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:32:51 [INFO] Get All products
+2024-06-10 11:32:52 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:32:52 [INFO] Deleting product with id5
+2024-06-10 11:32:52 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:32:52 [INFO] Get All products
+2024-06-10 11:32:59 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:32:59 [INFO] Get All products
+2024-06-10 11:33:02 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:33:02 [INFO] Deleting product with id999
+2024-06-10 11:33:02 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:33:02 [INFO] Get All products
+2024-06-10 11:33:04 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:33:04 [INFO] Get All products
+2024-06-10 11:33:06 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:33:06 [INFO] Deleting product with id43
+2024-06-10 11:33:06 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:33:06 [INFO] Get All products
+2024-06-10 11:33:08 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:33:08 [INFO] Get All products
+2024-06-10 11:33:10 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:33:10 [INFO] Deleting product with id11111
+2024-06-10 11:33:10 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:33:10 [INFO] Get All products
+2024-06-10 11:33:11 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:33:11 [INFO] Get All products
+2024-06-10 11:33:14 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:33:14 [INFO] Deleting product with id111
+2024-06-10 11:33:14 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:33:14 [INFO] Get All products
+2024-06-10 11:33:17 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:33:17 [INFO] Get All products
+2024-06-10 11:33:23 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:33:23 [INFO] Deleting product with id3
+2024-06-10 11:33:23 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:33:23 [INFO] Get All products
+2024-06-10 11:33:29 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:33:29 [INFO] Get All products
+2024-06-10 11:33:31 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:33:31 [INFO] Get All products
+2024-06-10 11:33:37 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:33:37 [INFO] Deleting product with id7
+2024-06-10 11:33:37 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:33:37 [INFO] Get All products
+2024-06-10 11:35:18 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:35:18 [INFO] Get All products
+2024-06-10 11:35:21 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:35:21 [INFO] Updating product with id1
+2024-06-10 11:35:21 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:35:21 [INFO] Get All products
+2024-06-10 11:35:24 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:35:24 [INFO] Get All products
+2024-06-10 11:35:25 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:35:25 [INFO] Get All products
+2024-06-10 11:35:27 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:35:27 [INFO] Deleting product with id7765
+2024-06-10 11:35:27 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:35:27 [INFO] Get All products
+2024-06-10 11:35:30 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:35:30 [INFO] Deleting product with id12
+2024-06-10 11:35:30 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:35:30 [INFO] Get All products
+2024-06-10 11:35:34 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:35:46 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:35:46 [INFO] Get All products
+2024-06-10 11:35:52 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 11:35:57 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-10 11:35:57 [INFO] Creating productfdsda
+2024-06-10 11:35:57 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:35:57 [INFO] Get All products
+2024-06-10 11:35:59 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:35:59 [INFO] Get All products
+2024-06-10 11:36:36 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:36:36 [INFO] Get All products
+2024-06-10 11:36:53 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:36:53 [INFO] Get All products
+2024-06-10 11:36:54 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:37:02 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:39:18 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:41:16 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:41:16 [INFO] Get All products
+2024-06-10 11:41:17 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:41:21 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:41:23 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:41:23 [INFO] Get All products
+2024-06-10 11:41:25 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 11:41:30 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-10 11:41:30 [INFO] Creating productfdasfasf
+2024-06-10 11:41:30 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:41:30 [INFO] Get All products
+2024-06-10 11:41:32 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:41:32 [INFO] Get All products
+2024-06-10 11:41:34 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:41:43 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:41:43 [INFO] Get All products
+2024-06-10 11:41:51 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:41:51 [INFO] Get All products
+2024-06-10 11:41:52 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:41:52 [INFO] Get All products
+2024-06-10 11:41:52 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:41:52 [INFO] Get All products
+2024-06-10 11:41:53 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:41:53 [INFO] Get All products
+2024-06-10 11:41:54 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:41:54 [INFO] Get All products
+2024-06-10 11:41:55 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:42:00 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:42:00 [INFO] Get All products
+2024-06-10 11:42:02 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:42:02 [INFO] Updating product with id1
+2024-06-10 11:42:02 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:42:02 [INFO] Get All products
+2024-06-10 11:42:06 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:42:06 [INFO] Updating product with id1
+2024-06-10 11:42:06 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:42:06 [INFO] Get All products
+2024-06-10 11:44:21 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:44:21 [INFO] Get All products
+2024-06-10 11:44:25 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:44:25 [INFO] Updating product with id1
+2024-06-10 11:44:25 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:44:25 [INFO] Get All products
+2024-06-10 11:44:27 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:44:27 [INFO] Get All products
+2024-06-10 11:44:30 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:44:30 [INFO] Updating product with id1
+2024-06-10 11:44:30 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:44:30 [INFO] Get All products
+2024-06-10 11:44:33 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:44:33 [INFO] Get All products
+2024-06-10 11:44:35 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:44:35 [INFO] Get All products
+2024-06-10 11:44:37 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:44:37 [INFO] Updating product with id1
+2024-06-10 11:44:37 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:44:37 [INFO] Get All products
+2024-06-10 11:45:03 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:45:03 [INFO] Get All products
+2024-06-10 11:45:04 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:45:14 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:47:52 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:47:52 [INFO] Get All products
+2024-06-10 11:47:54 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:47:54 [INFO] Deleting product with id1
+2024-06-10 11:47:54 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:47:54 [INFO] Get All products
+2024-06-10 11:47:56 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 11:47:56 [INFO] Deleting product with id554
+2024-06-10 11:47:56 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:47:56 [INFO] Get All products
+2024-06-10 11:48:01 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:48:01 [INFO] Get All products
+2024-06-10 11:48:03 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 11:48:10 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-10 11:48:10 [INFO] Creating productfdafafaf
+2024-06-10 11:48:10 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:48:10 [INFO] Get All products
+2024-06-10 11:49:55 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:49:55 [INFO] Get All products
+2024-06-10 11:50:00 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:50:00 [INFO] Updating product with id2
+2024-06-10 11:50:05 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:50:05 [INFO] Get All products
+2024-06-10 11:50:16 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:50:16 [INFO] Updating product with id2
+2024-06-10 11:50:32 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:50:32 [INFO] Get All products
+2024-06-10 11:53:28 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:53:28 [INFO] Updating product with id2
+2024-06-10 11:53:34 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:53:34 [INFO] Get All products
+2024-06-10 11:53:38 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:53:38 [INFO] Updating product with id2
+2024-06-10 11:53:52 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:53:52 [INFO] Get All products
+2024-06-10 11:53:53 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:53:53 [INFO] Updating product with id2
+2024-06-10 11:53:56 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:53:56 [INFO] Get All products
+2024-06-10 11:54:51 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:54:51 [INFO] Updating product with id2
+2024-06-10 11:55:00 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:55:00 [INFO] Get All products
+2024-06-10 11:55:06 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:55:06 [INFO] Updating product with id2
+2024-06-10 11:55:09 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:55:09 [INFO] Get All products
+2024-06-10 11:55:15 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:55:15 [INFO] Updating product with id2
+2024-06-10 11:55:17 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:55:17 [INFO] Get All products
+2024-06-10 11:55:46 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:55:46 [INFO] Updating product with id2
+2024-06-10 11:55:59 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:55:59 [INFO] Get All products
+2024-06-10 11:57:44 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:57:44 [INFO] Updating product with id2
+2024-06-10 11:57:49 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 11:57:49 [INFO] Get All products
+2024-06-10 11:57:54 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:57:54 [INFO] Get All products
+2024-06-10 11:57:57 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:57:57 [INFO] Updating product with id2
+2024-06-10 11:58:03 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:03 [INFO] Get All products
+2024-06-10 11:58:31 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:31 [INFO] Updating product with id2
+2024-06-10 11:58:31 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:31 [INFO] Get All products
+2024-06-10 11:58:32 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:32 [INFO] Updating product with id2
+2024-06-10 11:58:32 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:32 [INFO] Get All products
+2024-06-10 11:58:33 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:33 [INFO] Updating product with id2
+2024-06-10 11:58:33 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:33 [INFO] Get All products
+2024-06-10 11:58:36 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:36 [INFO] Updating product with id2
+2024-06-10 11:58:36 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:36 [INFO] Get All products
+2024-06-10 11:58:39 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:39 [INFO] Updating product with id2
+2024-06-10 11:58:39 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:39 [INFO] Get All products
+2024-06-10 11:58:42 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:42 [INFO] Updating product with id2
+2024-06-10 11:58:42 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:42 [INFO] Get All products
+2024-06-10 11:58:43 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:43 [INFO] Updating product with id2
+2024-06-10 11:58:43 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:43 [INFO] Get All products
+2024-06-10 11:58:44 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:44 [INFO] Updating product with id2
+2024-06-10 11:58:44 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:44 [INFO] Get All products
+2024-06-10 11:58:44 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:44 [INFO] Updating product with id2
+2024-06-10 11:58:44 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:44 [INFO] Get All products
+2024-06-10 11:58:45 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 11:58:45 [INFO] Updating product with id2
+2024-06-10 11:58:45 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 11:58:45 [INFO] Get All products
+2024-06-10 12:03:08 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:03:08 [INFO] Updating product with id2
+2024-06-10 12:03:08 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:08 [INFO] Get All products
+2024-06-10 12:03:10 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:03:10 [INFO] Updating product with id2
+2024-06-10 12:03:10 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:10 [INFO] Get All products
+2024-06-10 12:03:12 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:03:12 [INFO] Get All products
+2024-06-10 12:03:14 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:14 [INFO] Get All products
+2024-06-10 12:03:17 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 12:03:17 [INFO] Deleting product with id55
+2024-06-10 12:03:17 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:17 [INFO] Get All products
+2024-06-10 12:03:20 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 12:03:20 [INFO] Deleting product with id2
+2024-06-10 12:03:20 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:20 [INFO] Get All products
+2024-06-10 12:03:22 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:03:22 [INFO] Get All products
+2024-06-10 12:03:23 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 12:03:28 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-10 12:03:28 [INFO] Creating productfdasfas
+2024-06-10 12:03:28 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:03:28 [INFO] Get All products
+2024-06-10 12:03:30 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:30 [INFO] Get All products
+2024-06-10 12:03:32 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:03:32 [INFO] Updating product with id33
+2024-06-10 12:03:32 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:32 [INFO] Get All products
+2024-06-10 12:03:34 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:03:34 [INFO] Get All products
+2024-06-10 12:03:35 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:03:35 [INFO] Get All products
+2024-06-10 12:07:20 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:07:20 [INFO] Get All products
+2024-06-10 12:07:22 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:07:22 [INFO] Updating product with id33
+2024-06-10 12:07:22 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:07:22 [INFO] Get All products
+2024-06-10 12:07:26 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:07:26 [INFO] Updating product with id33
+2024-06-10 12:07:26 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:07:26 [INFO] Get All products
+2024-06-10 12:09:10 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:09:10 [INFO] Updating product with id33
+2024-06-10 12:11:05 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:11:09 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:09 [INFO] Get All products
+2024-06-10 12:11:12 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:11:13 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:13 [INFO] Get All products
+2024-06-10 12:11:16 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:11:17 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:17 [INFO] Get All products
+2024-06-10 12:11:18 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:18 [INFO] Get All products
+2024-06-10 12:11:42 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:11:44 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:44 [INFO] Get All products
+2024-06-10 12:11:48 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:48 [INFO] Get All products
+2024-06-10 12:11:50 [INFO] [ACCESS LOG] POST /entry/products/updates
+2024-06-10 12:11:50 [INFO] Updating product with id33
+2024-06-10 12:11:50 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:50 [INFO] Get All products
+2024-06-10 12:11:53 [INFO] [ACCESS LOG] POST /entry/products/updates
+2024-06-10 12:11:53 [INFO] Updating product with id33
+2024-06-10 12:11:53 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:11:53 [INFO] Get All products
+2024-06-10 12:13:33 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:13:33 [INFO] Get All products
+2024-06-10 12:13:36 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:13:36 [INFO] Updating product with id33
+2024-06-10 12:17:21 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:17:21 [INFO] Get All products
+2024-06-10 12:17:26 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:17:26 [INFO] Get All products
+2024-06-10 12:17:28 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:17:28 [INFO] Updating product with id33
+2024-06-10 12:18:12 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:18:12 [INFO] Get All products
+2024-06-10 12:18:15 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:18:15 [INFO] Updating product with id33
+2024-06-10 12:18:15 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:18:15 [INFO] Get All products
+2024-06-10 12:18:18 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:18:18 [INFO] Updating product with id33
+2024-06-10 12:18:18 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:18:18 [INFO] Get All products
+2024-06-10 12:18:19 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:18:19 [INFO] Get All products
+2024-06-10 12:18:22 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:18:22 [INFO] Get All products
+2024-06-10 12:18:32 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:18:32 [INFO] Updating product with id33
+2024-06-10 12:18:32 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:18:32 [INFO] Get All products
+2024-06-10 12:18:37 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:18:37 [INFO] Updating product with id33
+2024-06-10 12:18:37 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:18:37 [INFO] Get All products
+2024-06-10 12:18:53 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:18:53 [INFO] Updating product with id33
+2024-06-10 12:18:53 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:18:53 [INFO] Get All products
+2024-06-10 12:18:54 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:18:54 [INFO] Get All products
+2024-06-10 12:28:14 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:28:14 [INFO] Get All products
+2024-06-10 12:28:14 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:28:14 [INFO] Get All products
+2024-06-10 12:28:17 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 12:28:17 [INFO] Deleting product with id33
+2024-06-10 12:28:17 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:28:17 [INFO] Get All products
+2024-06-10 12:28:18 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:28:18 [INFO] Get All products
+2024-06-10 12:28:19 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 12:28:25 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-10 12:28:25 [INFO] Creating productfdsafa
+2024-06-10 12:28:26 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:28:26 [INFO] Get All products
+2024-06-10 12:28:27 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:28:27 [INFO] Get All products
+2024-06-10 12:29:44 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:29:44 [INFO] Get All products
+2024-06-10 12:33:40 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:33:40 [INFO] Get All products
+2024-06-10 12:33:45 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 12:33:45 [INFO] Updating product with id1
+2024-06-10 12:33:45 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:33:45 [INFO] Get All products
+2024-06-10 12:33:48 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 12:33:48 [INFO] Deleting product with id1
+2024-06-10 12:33:48 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 12:33:48 [INFO] Get All products
+2024-06-10 12:33:49 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 12:33:49 [INFO] Get All products
+2024-06-10 12:33:50 [INFO] [ACCESS LOG] GET /entry/products/new
+2024-06-10 13:21:32 [INFO] [ACCESS LOG] POST /entry/products
+2024-06-10 13:21:32 [INFO] Creating productаввы
+2024-06-10 13:21:32 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 13:21:32 [INFO] Get All products
+2024-06-10 13:21:34 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 13:21:34 [INFO] Get All products
+2024-06-10 13:21:35 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 13:21:35 [INFO] Updating product with id1
+2024-06-10 13:21:35 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 13:21:35 [INFO] Get All products
+2024-06-10 13:21:38 [INFO] [ACCESS LOG] POST /entry/products/update
+2024-06-10 13:21:38 [INFO] Updating product with id1
+2024-06-10 13:21:38 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 13:21:38 [INFO] Get All products
+2024-06-10 13:21:39 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 13:21:39 [INFO] Get All products
+2024-06-10 13:21:40 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 13:21:40 [INFO] Get All products
+2024-06-10 13:21:41 [INFO] [ACCESS LOG] POST /entry/products/delete
+2024-06-10 13:21:41 [INFO] Deleting product with id1
+2024-06-10 13:21:41 [INFO] [ACCESS LOG] GET /entry/products/update
+2024-06-10 13:21:41 [INFO] Get All products
+2024-06-10 13:21:42 [INFO] [ACCESS LOG] GET /entry/products
+2024-06-10 13:21:42 [INFO] Get All products
